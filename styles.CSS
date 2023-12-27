@@ -4,6 +4,7 @@ body {
     padding: 20px;
   }
 
+
   h2 {
     font-size: 30px;
   }
@@ -11,24 +12,6 @@ body {
   .established {
     font-style: italic;
   }
-/* unvisited link */
-a:link {
-  color: #FF0000;
-}
-
-/* visited link */
-a:visited {
-  color: #00FF00;
-}
-
-/* mouse over link */
-a:hover {
-  color: #FF00FF;
-}
-
-/* selected link */
-a:active {
-  color
 
   h1, h2, p {
     text-align: center;
@@ -103,41 +86,6 @@ a:hover {
 
 a:active {
   color: brown;
-}
+
 }
 
-[
-				"scroll",
-				"scrollSpeed"
-			],
-			[
-				"pre",
-				"preventDefault"
-			],
-			[
-				"sco",
-				"scrollPercent"
-			],
-			[
-				"log",
-				"LOG"
-			],
-			[
-				"tran",
-				"transitionOut"
-			],
-			[
-				"end",
-				"endScroll"
-			],
-			[
-				"star",
-				"startScroll"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"sta",
-				"startScroll"

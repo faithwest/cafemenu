@@ -15,9 +15,6 @@ body {
   to {background-color: blue;}
 }
 
-  .established {
-    font-style: italic;
-  }
 
   h1, h2, p {
     text-align: center;
